@@ -2,8 +2,8 @@
   "name": "8_Pack",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/8_Pack.git",
+    "ssh": "git@github.com:grgshiji/8_Pack.git",
     "branch": "block_8_Pack"
   },
   "dependencies": {
