@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/8_Pack.git",
+    "ssh": "git@github.com:grgshiji/8_Pack.git",
+    "branch": "block_listTodos"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "listTodos",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "qUIy5NIfyZODdqB1QyiEX",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "37Mx3QA7sbdtb-FsoZr0_"
+  ]
+}
